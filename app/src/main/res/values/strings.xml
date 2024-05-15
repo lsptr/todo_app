@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="login_button">Вход</string>
+    <string name="login_page">Вход в систему</string>
+    <string name="login">Логин</string>
+    <string name="name">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="sign_up">Регистрация пользователя</string>
+    <string name="register">Регистрация</string>
+    <string name="user_name">User name</string>
+    <string name="user_name_placeholder">User name</string>
+    <string name="my_lists_button">Мои списки</string>
+    <string name="profile_button">Мой профиль</string>
+    <string name="users_button">Пользователи</string>
+    <string name="users_page">Пользователи нашего приложения</string>
+    <string name="admin_page">Admin Console</string>
+    <string name="admin_page_button">Кабинет администратора</string>
+    <string name="main_page_button">На главную</string>
+</resources>
